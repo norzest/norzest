@@ -18,4 +18,6 @@
 ## 진행 프로젝트
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=norzest&repo=realEstateInfo&theme=dracula)](https://github.com/norzest/realEstateInfo)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=Real-time-monitoring-system_RaspberryPI&theme=dracula)](https://github.com/ssamea/Real-time-monitoring-system_RaspberryPI)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=norzest&repo=happyhousebackend&theme=dracula)](https://github.com/norzest/happyhousebackend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=norzest&repo=happyhousefrontend&theme=dracula)](https://github.com/norzest/happyhousefrontend)
 </br>
