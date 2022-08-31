@@ -12,11 +12,3 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> &nbsp
 </p>
-
-</br>
-
-## 진행 프로젝트
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=norzest&repo=realEstateInfo&theme=dracula)](https://github.com/norzest/realEstateInfo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=Real-time-monitoring-system_RaspberryPI&theme=dracula)](https://github.com/ssamea/Real-time-monitoring-system_RaspberryPI)
-
-</br>
